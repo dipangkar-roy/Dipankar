@@ -1,0 +1,32 @@
+body{
+  border: 2px solid blue ;
+  background: #D7DB07;
+}
+ul{
+  text-align: center;
+ 
+}
+li a{
+  text-decoration: none;
+  font-size: 10px;
+  color: #f0f;
+  
+}
+li{
+  display: inline;
+  border: 2px solid red;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  background: yellow;
+ 
+}
+img{
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  
+}
+p{
+  
+}
